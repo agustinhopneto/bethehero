@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./web/src/assets/logo.svg" alt="Be The Hero" />
+  <img src="https://drive.google.com/file/d/12jp7d79bPKIyo41mbA7A8DfB-ENHvy0S/view?usp=sharing" alt="Be The Hero" />
 </p>
 
 <h3 align="center">
@@ -17,6 +17,18 @@ O back-end é desenvolvido no modelo de API Rest utilizando o Node.js, e é cons
 O cliente web é utilizado pela ONG, onde a mesma se cadastra, faz o logon na aplicação e cadastra os casos,  para serem visualizados pelos usuários comuns.
 
 Já o cliente mobile, consegue visualizar todas os casos abertos por todas as ONG's, visualizar os detalhes e entrar em contato por E-mail ou WhatsApp com a ONG em questão para ser o herói do caso.
+
+### Prints
+
+<img src="https://i.imgur.com/HoKtMI3.png" style="zoom:50%;" />
+
+<img src="https://i.imgur.com/8D1bdzx.png" style="zoom:50%;" />
+
+<div style="display:flex;flex-direction:row;justify-content:center">
+    <img src="https://i.imgur.com/KMmVDdC.png" style="zoom:20%;" />
+    <img src="https://i.imgur.com/5YPPSIO.png" style="zoom:20%;margin: 0 30px 0 30px;" />
+    <img src="https://i.imgur.com/ypUCnT3.png" style="zoom:20%;" />
+</div>
 
 
 

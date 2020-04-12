@@ -20,14 +20,14 @@ Já o cliente mobile, consegue visualizar todas os casos abertos por todas as ON
 
 ### Prints
 
-<img src="https://i.imgur.com/HoKtMI3.png" style="zoom:50%;" />
+<img src="https://i.imgur.com/HoKtMI3.png" style="height:50%;width:50%;" />
 
-<img src="https://i.imgur.com/8D1bdzx.png" style="zoom:50%;" />
+<img src="https://i.imgur.com/8D1bdzx.png" style="height:50%;width:50%;" />
 
 <div style="display:flex;flex-direction:row;justify-content:center">
-    <img src="https://i.imgur.com/KMmVDdC.png" style="zoom:20%;" />
-    <img src="https://i.imgur.com/5YPPSIO.png" style="zoom:20%;margin: 0 30px 0 30px;" />
-    <img src="https://i.imgur.com/ypUCnT3.png" style="zoom:20%;" />
+    <img src="https://i.imgur.com/KMmVDdC.png" style="height:50%;width:50%;" />
+    <img src="https://i.imgur.com/5YPPSIO.png" style="height:50%;width:50%;margin: 0 30px 0 30px;" />
+    <img src="https://i.imgur.com/ypUCnT3.png" style="height:50%;width:50%;" />
 </div>
 
 

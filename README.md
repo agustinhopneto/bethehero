@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/12jp7d79bPKIyo41mbA7A8DfB-ENHvy0S/view?usp=sharing" alt="Be The Hero" />
+  <img src="./web/src/assets/logo.svg" alt="Be The Hero" />
 </p>
 
 <h3 align="center">

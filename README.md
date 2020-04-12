@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./web/src/assets/logo.svg" alt="Be The Hero" />
+  <img src="https://drive.google.com/file/d/12jp7d79bPKIyo41mbA7A8DfB-ENHvy0S/view?usp=sharing" alt="Be The Hero" />
 </p>
 
 <h3 align="center">
@@ -20,14 +20,14 @@ Já o cliente mobile, consegue visualizar todas os casos abertos por todas as ON
 
 ### Prints
 
-<img src="https://i.imgur.com/HoKtMI3.png" style="height:50%;width:50%;" />
+<img src="https://i.imgur.com/HoKtMI3.png" width="640" heitgh="360" />
 
-<img src="https://i.imgur.com/8D1bdzx.png" style="height:50%;width:50%;" />
+<img src="https://i.imgur.com/8D1bdzx.png" width="640" heitgh="360" />
 
 <div style="display:flex;flex-direction:row;justify-content:center">
-    <img src="https://i.imgur.com/KMmVDdC.png" style="height:50%;width:50%;" />
-    <img src="https://i.imgur.com/5YPPSIO.png" style="height:50%;width:50%;margin: 0 30px 0 30px;" />
-    <img src="https://i.imgur.com/ypUCnT3.png" style="height:50%;width:50%;" />
+    <img src="https://i.imgur.com/KMmVDdC.png" width="216" heitgh="444" />
+    <img src="https://i.imgur.com/5YPPSIO.png" width="216" heitgh="444" style="margin: 0 30px 0 30px;" />
+    <img src="https://i.imgur.com/ypUCnT3.png" width="216" heitgh="444" />
 </div>
 
 

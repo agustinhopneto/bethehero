@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/12jp7d79bPKIyo41mbA7A8DfB-ENHvy0S/view?usp=sharing" alt="Be The Hero" />
+  <img src="./web/src/assets/logo.svg" alt="Be The Hero" />
 </p>
 
 <h3 align="center">
@@ -23,6 +23,10 @@ Já o cliente mobile, consegue visualizar todas os casos abertos por todas as ON
 <img src="https://i.imgur.com/HoKtMI3.png" width="640" heitgh="360" />
 
 <img src="https://i.imgur.com/8D1bdzx.png" width="640" heitgh="360" />
+
+<img src="https://i.imgur.com/z8V1dVY.png" width="640" heitgh="360" />
+
+<img src="https://i.imgur.com/hVyY3A4.png" width="640" heitgh="360" />
 
 <div style="display:flex;flex-direction:row;justify-content:center">
     <img src="https://i.imgur.com/KMmVDdC.png" width="216" heitgh="444" />

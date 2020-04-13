@@ -1,10 +1,11 @@
 <p align="center">
   <img src="./web/src/assets/logo.svg" alt="Be The Hero" />
 </p>
-
 <h3 align="center">
   Aplicação para ONG's cadastrarem casos e pessoas comuns poderem contribuir com doações!
-<br>
+
+
+[TOC]
 
 ## Visão Geral
 
@@ -34,8 +35,36 @@ Já o cliente mobile, consegue visualizar todas os casos abertos por todas as ON
     <img src="https://i.imgur.com/ypUCnT3.png" width="216" heitgh="444" />
 </div>
 
+## Instalação
 
+### Server
+Para rodar a aplicação, é necessário ter o [**Node.js**](https://nodejs.org) instalado na sua máquina.
+
+Abra seu terminal, entre na pasta **server** e digite:
+`npm install`
+
+Espere a instalação terminar e digite:
+`npm start`
+
+### Web
+
+Abra uma nova instância do terminal, entre na pasta **web** e digite:
+`npm install`
+
+Espere a instalação terminar e digite:
+`npm start`
+
+### Mobile (iOS e Android)
+
+Você precisa ter instalado o app **Expo** em seu dispositivo móvel para prosseguir.
+
+Abra uma nova instância do terminal, entre na pasta **mobile** e digite:
+`npm install`
+
+Espere a instalação. Após isso execute:
+`npm start`
+
+E siga as instruções no navegador para rodar o app em seu dispositivo.
 
 ## Licença
-
 MIT © [Agustinho Neto](https://github.com/agustinhopneto)

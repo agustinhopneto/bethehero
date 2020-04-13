@@ -3,10 +3,7 @@
 </p>
 <h3 align="center">
   Aplicação para ONG's cadastrarem casos e pessoas comuns poderem contribuir com doações!
-
-
-[TOC]
-
+  
 ## Visão Geral
 
 **Be The Hero** é uma aplicação feita durante a **Semana Omnistack 11.0** realizada pela [**Rocketseat**](https://rocketseat.com.br/) com o intuito de ensinar um pouco sobre a stack de desenvolvimento [**Node.js**](https://nodejs.org/pt-br/) + [**React**](https://pt-br.reactjs.org/) + [**React Native**](https://reactnative.dev/).

@@ -53,7 +53,7 @@ Espere a instalação terminar e digite:
 
 ### Mobile (iOS e Android)
 
-Você precisa ter instalado o app **Expo** em seu dispositivo móvel para prosseguir.
+Você precisa ter instalado o app [**Expo**](https://expo.io/) em seu dispositivo móvel para prosseguir.
 
 Abra uma nova instância do terminal, entre na pasta **mobile** e digite:
 `npm install`

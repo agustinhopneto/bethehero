@@ -58,7 +58,9 @@ Você precisa ter instalado o app [**Expo**](https://expo.io/) em seu dispositiv
 Abra uma nova instância do terminal, entre na pasta **mobile** e digite:
 `npm install`
 
-Espere a instalação. Após isso execute:
+Espere a instalação. Vá até o arquivo `./mobile/src/services/api.js` e altere o IP colocando o de sua máquina.
+
+Após isso execute:
 `npm start`
 
 E siga as instruções no navegador para rodar o app em seu dispositivo.

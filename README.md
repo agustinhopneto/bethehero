@@ -4,6 +4,12 @@
 <h3 align="center">
   Aplicação para ONG's cadastrarem casos e pessoas comuns poderem contribuir com doações!
   
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/agustinhopneto/gostack-desafio02?color=%2304D361">
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+</p>
+  
 ## Visão Geral
 
 **Be The Hero** é uma aplicação feita durante a **Semana Omnistack 11.0** realizada pela [**Rocketseat**](https://rocketseat.com.br/) com o intuito de ensinar um pouco sobre a stack de desenvolvimento [**Node.js**](https://nodejs.org/pt-br/) + [**React**](https://pt-br.reactjs.org/) + [**React Native**](https://reactnative.dev/).
@@ -67,3 +73,5 @@ E siga as instruções no navegador para rodar o app em seu dispositivo.
 
 ## Licença
 MIT © [Agustinho Neto](https://github.com/agustinhopneto)
+---
+Obrigado pela visita! :heart:

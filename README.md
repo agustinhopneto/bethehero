@@ -3,9 +3,9 @@
 </p>
 <h3 align="center">
   Aplicação para ONG's cadastrarem casos e pessoas comuns poderem contribuir com doações!
-</h3>
 
-<br />
+
+<br>
   
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/agustinhopneto/gostack-desafio02?color=%2304D361">
@@ -76,5 +76,5 @@ E siga as instruções no navegador para rodar o app em seu dispositivo.
 
 ## Licença
 MIT © [Agustinho Neto](https://github.com/agustinhopneto)
----
+<br>
 Obrigado pela visita! :heart:
